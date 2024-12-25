@@ -1,0 +1,8 @@
+gui:
+  title: "Enchant Catalogue"
+  # gui title will be coloured if no &r is specified.
+utils:
+  color: "#c21b10"
+  errors:
+    invalidItemError: "Invalid Item!"
+  # im too lazy to implement stuff that handles hex formatting
